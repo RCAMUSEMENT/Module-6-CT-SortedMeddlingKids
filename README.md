@@ -1,6 +1,11 @@
 # 🔎 CASE FILE: Sorted Meddling Kids
+
 **Student:** Ryley Carlson
+
+
 **Course:** CSC372 | Module 5 Critical Thinking Assignment
+
+
 **Date:** April 26, 2026
 
 Welcome to the **Coolsville High Registrar**. This project was created to track and organize the students of Coolsville High—especially those pesky meddling kids who keep solving mysteries around town.
