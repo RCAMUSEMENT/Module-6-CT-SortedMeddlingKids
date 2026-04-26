@@ -56,7 +56,7 @@ public class CoolsvilleRegistrar {
                     }
                     case 4 -> {
                         unmasking = false;
-                        System.out.println("Case Closed! Zoinks!");
+                        System.out.println("Case Closed! Scooby-Dooby-Doo!");
                     }
                     default -> System.out.println("Ruh-roh! Not a valid choice.");
                 }
