@@ -3,7 +3,7 @@
 **Student:** Ryley Carlson
 
 
-**Course:** CSC372 | Module 5 Critical Thinking Assignment
+**Course:** CSC372 | Module 6 Critical Thinking Assignment
 
 
 **Date:** April 26, 2026
